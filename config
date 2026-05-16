@@ -1,0 +1,13 @@
+放設定檔。
+config/
+│
+├── account.json
+├── strategy_config.json
+└── system_config.json
+
+用途：
+
+API帳號
+股票清單
+停損設定
+時間設定
